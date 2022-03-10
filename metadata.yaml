@@ -1,5 +1,8 @@
 _repo: All-the-World-Over-Interesting-Stories-of-Travel-Thrilling-Adventure-and-Home-Life_67560
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67560-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bell, Lucia Chase
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '54326'
     url: http://www.gutenberg.org/2009/agents/54326
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67560#All-the-World-Over-Interesting-Stories-of-Travel-Thrilling-Adventure-and-Home-Life
 gutenberg_issued: '2022-03-05'
 identifiers:
   gutenberg: '67560'
